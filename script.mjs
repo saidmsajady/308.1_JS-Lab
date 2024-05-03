@@ -113,4 +113,4 @@ console.log("Will my budget be enough? ", totalCostC)
 const totalTimeC = tripDistance / 70;
 console.log("The trip will take " + totalTimeC + " hours\n");
 
-console.log('First Part Finished!\n');
+console.log('Second Part Finished!\n');
